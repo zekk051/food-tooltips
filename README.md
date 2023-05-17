@@ -30,6 +30,6 @@ Obs.
 -----
 I had to tweak the food icon because of the text shadow minecraft has by default. It's not perfect, but you'll get used to it very quickly.
 
-![Tweaked Food Icon](https://imgur.com/WdJQorO.png)  
+![Tweaked Food Icon](https://imgur.com/Vxk1xdG.png)  
 Before and after:  
 ![Before and After](https://imgur.com/qFzJbJp.png)
