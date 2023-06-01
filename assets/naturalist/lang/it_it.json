@@ -1,13 +1,4 @@
 {
-  "item.naturalist.cooked_egg": "Cooked Egg \uF051\uF050\uF050",
-  "item.naturalist.duck": "Duck \uF050",
-  "item.naturalist.cooked_duck": "Cooked Duck \uF050\uF050\uF050",
-  "item.naturalist.venison": "Carne di cervo \uF050",
-  "item.naturalist.cooked_venison": "Carne cotta di cervo \uF050\uF050\uF050",
-  "item.naturalist.lizard_tail": "Lizard Tail \uF050",
-  "item.naturalist.cooked_lizard_tail": "Cooked Lizard Tail \uF051\uF050\uF050",
-  "item.naturalist.catfish": "Catfish \uF050",
-  "item.naturalist.cooked_catfish": "Cooked Catfish \uF050\uF050\uF050",
-  "item.naturalist.bass": "Bass \uF050",
-  "item.naturalist.cooked_bass": "Cooked Bass \uF051\uF050\uF050"
+  "item.naturalist.venison":"Carne di cervo \uF050",
+  "item.naturalist.cooked_venison":"Carne cotta di cervo \uF050\uF050\uF050"
 }

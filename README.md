@@ -6,40 +6,19 @@ It works similar to what AppleSkin does with item tooltips.
 
 Supported languages
 ----------------------
-- de_de
-- en_au
-- en_ca
-- en_gb
-- en_nz
-- en_pt
-- en_us
-- es_ar
-- es_cl
-- es_ec
-- es_es
-- es_mx
-- es_uy
-- es_ve
-- fr_ca
-- fr_fr
-- it_it
-- ja_jp
-- ko_kr
-- pt_br
-- pr_pr
-- ru_ru
-
-<sub>I'll add more translations over time. You can open an issue asking for a specific language/mod to be supported.</sub>
+38 languages are already supported! You can check all of them in the "supported.json" file.  
+I'll add more translations over time. You can open an issue asking for a specific language/mod to be supported.
 
 Supported mods
 -----------------
 - Artifacts
 - Oh The Biomes You'll Go
+- Farmer's Delight
 - Galosphere
 - Naturalist
 - Supplementaries
 
-<sub>Some mods don't have proper translations for all languages. You can find all missing translations in "missing_translations.json".</sub>
+<sub>Some mods have incomplete/outdated or don't even have translations for all languages.</sub>
 
 Obs.
 -----
