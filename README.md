@@ -6,11 +6,13 @@ It works similar to what AppleSkin does with item tooltips.
 
 Supported languages
 ----------------------
-38 languages are already supported! You can check all of them in the "supported.json" file.  
+50 languages are already supported! You can check all of them in the "supported.json" file.  
 I'll add more translations over time. You can open an issue asking for a specific language/mod to be supported.
 
 Supported mods
 -----------------
+- Alex's Mobs
+- Alex's Delight
 - Artifacts
 - Oh The Biomes You'll Go
 - Farmer's Delight
