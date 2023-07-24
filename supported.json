@@ -1,14 +1,34 @@
 {
     "Minecraft": [
+        "af_za",
+        "ar_sa",
+        "ast_es",
+        "az_az",
+        "ba_ru",
+        "bar",
+        "be_by",
+        "bg_bg",
+        "br_fr",
+        "brb",
+        "bs_ba",
         "ca_es",
         "cs_cz",
+        "cy_gb",
+        "da_dk",
+        "de_at",
+        "de_ch",
         "de_de",
+        "el_gr",
         "en_au",
         "en_ca",
         "en_gb",
         "en_nz",
         "en_pt",
+        "en_ud",
         "en_us",
+        "enp",
+        "enws",
+        "eo_uy",
         "es_ar",
         "es_cl",
         "es_ec",
@@ -16,13 +36,23 @@
         "es_mx",
         "es_uy",
         "es_ve",
+        "esan",
+        "et_ee",
+        "eu_es",
+        "fa_ir",
         "fi_fi",
+        "fil_ph",
         "fr_ca",
         "fr_fr",
+        "fra_de",
+        "fy_nl",
         "ga_ie",
+        "gd_gb",
         "gl_es",
+        "haw_us",
         "he_il",
         "hi_in",
+        "hr_hr",
         "hu_hu",
         "id_id",
         "it_it",
@@ -99,6 +129,30 @@
         "zh_cn"
     ],
 
+    "Better End": [
+        "de_de",
+        "en_us",
+        "es_es",
+        "ko_kr",
+        "pt_br",
+        "ru_ru",
+        "thai_th",
+        "tr_tr",
+        "zh_cn"
+    ],
+
+    "Better Nether": [
+        "de_de",
+        "en_us",
+        "fr_fr",
+        "ja_jp",
+        "ko_kr",
+        "pl_pl",
+        "pt_br",
+        "ru_ru",
+        "zh_cn"
+    ],
+
     "Oh The Biomes You'll Go": [
         "en_us",
         "es_ar",
@@ -113,6 +167,19 @@
         "uk_ua",
         "vi_vn",
         "zh_cn"
+    ],
+
+    "Cultural Delights": [
+        "en_us",
+        "fr_fr",
+        "ja_jp",
+        "tr_tr",
+        "uk_ua",
+        "zh_cn"
+    ],
+
+    "Delightful": [
+        "en_us"
     ],
 
     "Farmer's Delight": [
@@ -174,6 +241,34 @@
         "tr_tr",
         "uk_ua",
         "vi_vn",
+        "zh_cn",
+        "zh_tw"
+    ],
+
+    "Nether's Delight": [
+        "en_us"
+    ],
+
+    "Quark": [
+        "de_de",
+        "en_gb",
+        "en_pt",
+        "en_us",
+        "es_ar",
+        "es_es",
+        "es_mx",
+        "fi_fi",
+        "fr_fr",
+        "hu_hu",
+        "it_it",
+        "ja_jp",
+        "ko_kr",
+        "pl_pl",
+        "pt_br",
+        "pt_pt",
+        "ru_ru",
+        "sv_se",
+        "uk_ua",
         "zh_cn",
         "zh_tw"
     ],
